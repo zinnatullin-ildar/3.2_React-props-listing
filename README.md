@@ -1,7 +1,7 @@
 # Список предложений
 
 Необходимо вывести список предложений каталога Etsy.com, используя библиотеку React. После загрузки данных и отрисовки список должен выглядеть так:
-![Список предложений](https://github.com/222Alexa/ra16-homeworks/raw/master/props/listing/assets/preview.png)
+![Список предложений](https://github.com/netology-code/ra16-homeworks/blob/master/props/listing/assets/preview.png)
 
 ## Данные списка предложений
 
